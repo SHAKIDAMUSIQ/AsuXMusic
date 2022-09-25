@@ -1,6 +1,6 @@
 {
-  "name": "ᴀsᴜx ᴍᴜsɪᴄ",
-  "logo": "https://telegra.ph/file/89cbc8b8760b6abff430f.jpg",
+  "name": "𝑆𝐻𝐴𝐾𝐼𝐷𝐴 𝑀𝑈𝑆𝐼𝐶 𝐵𝑂𝑇",
+  "logo": "https://telegra.ph//file/229d17880fe5bc8c72d37.jpg",
   "description": "A Fast & Powerful VC Player bot to play songs in Telegram Video Chat written in Python with the help of Pyrogram & PyTg-Calls.",
   "keywords": ["music", "voicechat", "python", "telegram-bot", "pyrogram", "telegram", "AsuX"],
   "repository": "https://github.com/KingAbishnoi/AsuXMusic",
@@ -54,12 +54,12 @@
     "SUPPORT_CHAT": {
       "description": "sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ ᴏғ ʏᴏᴜʀ ʙᴏᴛ, ᴍᴜsᴛ sᴛᴀʀᴛ ᴡɪᴛʜ https://t.me/",
       "required": false,
-      "value": "https://t.me/AbishnoiMF"
+      "value": "https://t.me/tamil_yelrasani"
     },
     "SUPPORT_CHANNEL": {
       "description": "sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ ᴏғ ʏᴏᴜʀ ʙᴏᴛ, ʏᴏᴜʀ ʟɪɴᴋ ᴍᴜsᴛ sᴛᴀʀᴛ ᴡɪᴛʜ https://t.me/",
       "required": false,
-      "value": "https://t.me/Abishnoi_bots"
+      "value": "https://t.me/attu_edits"
     }
   },
   "buildpacks": [
