@@ -54,7 +54,7 @@
     "SUPPORT_CHAT": {
       "description": "sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ʟɪɴᴋ ᴏғ ʏᴏᴜʀ ʙᴏᴛ, ᴍᴜsᴛ sᴛᴀʀᴛ ᴡɪᴛʜ https://t.me/",
       "required": false,
-      "value": "https://t.me/tamil_yelrasani"
+      "value": "https://t.me/GIRLSSAFEZONE"
     },
     "SUPPORT_CHANNEL": {
       "description": "sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ ᴏғ ʏᴏᴜʀ ʙᴏᴛ, ʏᴏᴜʀ ʟɪɴᴋ ᴍᴜsᴛ sᴛᴀʀᴛ ᴡɪᴛʜ https://t.me/",
