@@ -20,7 +20,7 @@ OWNER_ID = list(map(int, getenv("OWNER_ID", "").split()))
 PING_IMG = getenv("PING_IMG", "https://telegra.ph//file/c2677756d1cfc2408da84.jpg")
 START_IMG = getenv("START_IMG")
 
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/tamil_yelrasani ")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://GIRLSSAFEZONE ")
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/attu_edits  ")
 
 STRING_SESSION = getenv("STRING_SESSION", None)
